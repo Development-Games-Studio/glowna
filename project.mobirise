@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Development Games Studio",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -525,10 +525,10 @@
         }
       ]
     },
-    "page1.html": {
+    "skrypty.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
-        "title": "Page 1",
+        "meta_descr": "Nasze skrypty",
+        "title": "skrypty",
         "order": 1
       },
       "components": [
