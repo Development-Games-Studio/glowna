@@ -1004,8 +1004,7 @@
         "meta_descr": "Witaj na naszej stronie mamy nadzieje że ci się spodoba i odwiedzisz nas jeszcze raz",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg"
+        "html_before": ""
       },
       "components": [
         {
